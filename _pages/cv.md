@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Electrical and Computer Engineering, UC San Diego, 2024
+* B.S. in Mechanical Engineering, National Taiwan University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Computer Vision Engineer, Kargo Technologies
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -41,7 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
