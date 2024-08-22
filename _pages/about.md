@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, I'm Wilson 😃"
+title: "👋🏼 Hey there, I'm Wilson"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,28 +9,44 @@ redirect_from:
 
 ---------------
 
-About me
+About me 👨🏻‍💻
 ======
 I'm a new grad software engineer based in San Francisco, California. I left my hometown, Taipei, Taiwan, in 2022 to pursue my master's degree in the states. So far, I like the vibe and life style in California, and keep exploring around.
 
 
 ---------------
 
-Currently
+Currently 🤖
 ======
 ![test](/images/cv.png){: .align-right width="250px"}
 
-I work as a computer vision engineer at [Kargo](https://mykargo.com/), a logistics startup currently transforming unstructured shipments into structured data platform, where I specialize in AI/ML and develop a broad range of applications within the our computer vision stacks.
-
-I was previously a sofware intern at [Futurewei](https://www.futurewei.com/) in summer 2023, where I built a 3D body tracking module for ARVR platform. Prior to that, I interned as a perception software engineer at [FARobot](https://www.farobottech.com/), where I developed a LiDAR-based detection system for autonomous mobile robots. I also gain research experience in the area of Computer Vision & Natural Language Processing & Multi-modal Learning during my full-time / internship at [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/).
+I work as a computer vision engineer at [Kargo](https://mykargo.com/), a logistics startup that transforms unstructured shipments into structured data platform, where I specialize in AI/ML and develop a broad range of applications within the our computer vision stacks.
 
 ---------------
 
-Education
+Past experience ✅
 ======
-I completed my M.S. in Electrical and Computer Engineering with a focus on Robotics at [UC SanDiego](https://ucsd.edu/) in 2024, and B.S. in Mechanical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/).
+<!-- Sofware Engineer intern, [Futurewei](https://www.futurewei.com/), 06/2023 - 09/2023
+- 3D body tracking sysyem for ARVR platform
 
-Not until the end of junior year, tbd.
+Perception Software Engineer Intern, [FARobot](https://www.farobottech.com/), 06/2022 - 08/2022
+- LiDAR-based detection system for autonomous mobile robots
+
+Research Assistant, [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/), 02/2022 - 05/2022
+- LiDAR-based detection system for autonomous mobile robots
+
+Research Assistant Intern, [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/), 07/2021 - 01/2023
+- LiDAR-based detection system for autonomous mobile robots -->
+
+I was previously a sofware engineer intern at [Futurewei](https://www.futurewei.com/) in summer 2023, where I built a 3D body tracking sysyem for ARVR platform. Prior to that, I interned as a perception software engineer at [FARobot](https://www.farobottech.com/), where I developed a LiDAR-based detection system for autonomous mobile robots. I also gain research experience in the area of Computer Vision & Natural Language Processing & Multi-modal Learning during my full-time / internship at [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/).
+
+---------------
+
+Education 🎓
+======
+I completed my M.S. in Electrical and Computer Engineering with a focus on Robotics at [UC SanDiego](https://ucsd.edu/) in 2024, and B.S. in Mechanical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2022.
+
+I didn't start coding until the second half of my junior year, where I worked on the lane tracking system of a autonomous propeller‐powered vehicle. During the time, I start to explore the world of programming and top trend tech.
 
 
 
