@@ -1,6 +1,6 @@
 ---
 title: "Space Invader Game"
-excerpt: "Simple shooting game developed with C++ and Raylib, also my first game project<br/><img src='/images/space.png' width='360'>"
+excerpt: "Simple shooting game developed with C++ and Raylib, also my first game project<br/><img src='/gifs/space_game_demo.gif' width='360'>"
 collection: portfolio
 ---
 *My first game project, just for fun :), March, 2024*

@@ -1,5 +1,5 @@
 ---
-title: "Collision detection & Path planning"
+title: "Collision Detection & Path planning"
 excerpt: "Performance comparision of algorithms for path planning with collision detection<br/><img src='/images/path_planning.png' width='480'>"
 collection: portfolio
 ---

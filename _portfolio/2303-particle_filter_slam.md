@@ -1,6 +1,6 @@
 ---
 title: "Particle Filter SLAM"
-excerpt: "Implement SLAM with sampling based method (particle filter) on occupancy log-odds map<br/><img src='/images/slam.png' width='480'>"
+excerpt: "Implement SLAM with sampling based method (particle filter) on occupancy log-odds map<br/><img src='/images/slam.png' width='480' height='auto'>"
 collection: portfolio
 ---
 

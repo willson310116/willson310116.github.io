@@ -1,6 +1,6 @@
 ---
 title: "Transformer Attention Visualization"
-excerpt: "Visualize the attention map in transformer architecture<br/><img src='/images/vit.png' width='300'>"
+excerpt: "Visualize the attention map in transformer architecture<br/><img src='/images/vit.png' width='280' height='300'>"
 collection: portfolio
 ---
 *December, 2021*
