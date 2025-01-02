@@ -11,8 +11,7 @@ redirect_from:
 
 About me 👨🏻‍💻
 ======
-I'm a new grad software engineer based in San Francisco, California. I left my hometown, Taipei, Taiwan, in 2022 to pursue my master's degree in the states. So far, I like the vibe and life style in California, and keep exploring around.
-
+I'm a new grad software engineer based in San Francisco, California. I left my hometown, Taipei, Taiwan, in 2022 to pursue my master's degree in the states. So far, I like the vibe and life style in California, and trying to explore more nice coffee shops around bay area.
 
 ---------------
 
@@ -38,7 +37,7 @@ Research Assistant, [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/)
 Research Assistant Intern, [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/), 07/2021 - 01/2023
 - LiDAR-based detection system for autonomous mobile robots -->
 
-I was previously a sofware engineer intern at [Futurewei](https://www.futurewei.com/) in summer 2023, where I built a 3D body tracking sysyem for ARVR platform. Prior to that, I interned as a perception software engineer at [FARobot](https://www.farobottech.com/), where I developed a LiDAR-based detection system for autonomous mobile robots. I also gain research experience in the area of Computer Vision & Natural Language Processing & Multi-modal Learning during my full-time / internship at [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/).
+I was previously a software engineer intern at [Futurewei](https://www.futurewei.com/) in summer 2023, where I built a 3D body tracking sysyem for ARVR platform. Prior to that, I interned as a perception software engineer at [FARobot](https://www.farobottech.com/), where I developed a LiDAR-based detection system for autonomous mobile robots. I also gain research experience in the area of Computer Vision & Natural Language Processing & Multi-modal Learning during my full-time / internship at [CKIP Lab, Academia Sinica](https://ckip.iis.sinica.edu.tw/).
 
 ---------------
 
@@ -46,7 +45,15 @@ Education 🎓
 ======
 I completed my M.S. in Electrical and Computer Engineering with a focus on Robotics at [UC San Diego](https://ucsd.edu/) in 2024, and B.S. in Mechanical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2022.
 
-I didn't start coding until the second half of my junior year, where I worked on the lane tracking system of a autonomous propeller‐powered vehicle. During the time, I start to explore the world of programming and top trend tech.
+---------------
+
+Something else 👀
+======
+I didn't start coding until late junior year, where I worked on the lane tracking system of a autonomous propeller‐powered vehicle. During the time, I start to explore the world of programming and top trend tech.
+
+I'm interested in wide range of stuffs, and would like to learn/explore more. As shown above, I learned about AI/ML, Robotics, and AR/VR. Currently, while I work on machine learning tasks during weekdays, I’m also learning lower-level concepts, such as how software works under the hood, including topics like operating systems and multi-threading.
+
+I've also documented some thoughts (in Mandarin though) in [Medium](https://medium.com/@willson310116) including how I applied to grad schools in the states, how I got my current job, and what I learnt as a new grad engineer so far.
 
 ---------------
 
